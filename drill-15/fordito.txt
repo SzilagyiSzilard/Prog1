@@ -1,0 +1,3 @@
+g++ ch13_drill.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o main `fltk-config --ldflags --use-images^C
+
+cd Prog1/github/github/Prog1/drill-13/

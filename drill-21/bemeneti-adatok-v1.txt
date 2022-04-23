@@ -1,0 +1,10 @@
+Valami1 55 134
+Valami2 12 12424
+Valami3 15 213
+Valami4 54 243
+Valami5 78 123
+Valami6 10 730
+Valami7 21 633
+Valami8 98 647
+Valami9 43 65
+Valami10 66 12673
